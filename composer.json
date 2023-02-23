@@ -29,7 +29,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Keko-94\\NovaStringGeneratorField\\": "src/"
+            "Gldrenthe89\\NovaStringGeneratorField\\": "src/"
         }
     },
     "config": {
@@ -38,7 +38,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Keko-94\\NovaStringGeneratorField\\NovaStringGeneratorFieldServiceProvider"
+                "Gldrenthe89\\NovaStringGeneratorField\\NovaStringGeneratorFieldServiceProvider"
             ]
         }
     },
